@@ -77,7 +77,7 @@ public class Main {
         
         
         
-        
+        //Impresion en consola de los objetos anteriores
         System.out.println("Login"+"\n"+"ID: "+u1.getId()+"\n"+"Password: "+u1.getPassword());
         System.out.println("Bienvenido "+"\n"+post.getUser());
         System.out.println("Categoria: "+post.getCategory());
